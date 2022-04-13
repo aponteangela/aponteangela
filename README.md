@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aponteangela
-- 👀 I’m interested in ... reading, gaming and movies.
-- 🌱 I’m currently learning ... JAVA, SwiftUI, Python, JS
+- 👀 I’m interested in ... reading, gaming and charcuterie.
+- 🌱 I’m currently learning ... JS, Swift, Python, JAVA
 - 💞️ I’m looking to collaborate on ... iOS Xcode Apps
 
 <!---
